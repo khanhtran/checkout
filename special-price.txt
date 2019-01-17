@@ -1,0 +1,3 @@
+A,com.sample.checkout.pricingrules.BuyXForY,3,130
+B,com.sample.checkout.pricingrules.BuyXForY,2,45
+C,com.sample.checkout.pricingrules.BuyXGetYFree,4,1
